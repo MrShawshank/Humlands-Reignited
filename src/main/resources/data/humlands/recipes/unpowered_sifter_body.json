@@ -1,0 +1,46 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "SSS",
+        "WMW",
+        "CMC"
+    ],
+    
+    "key":
+    {
+        "M":
+        {
+            "item": "humlands:iron_plate"
+        },
+        
+        "D":
+        {
+            "item": "humlands:diamond_plate"
+        },
+        
+        "C":
+        {
+            "item": "humlands:carbon_tube"
+        },
+        
+        "W":
+        {
+            "item": "humlands:copper_wire"
+        },
+        
+         "S":
+        {
+            "item": "humlands:carbon_sheet"
+        }
+        
+        
+    },
+    
+    "result":
+    {
+        "item":  "humlands:unpowered_sifter_body",
+        "count": 1
+    }
+}

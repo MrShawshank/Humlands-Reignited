@@ -1,0 +1,33 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": 
+	[
+		"CWC",
+		"MMM",
+		"   "
+	],
+
+	"key": 
+	{
+		"M": 
+		{
+			"item": "humlands:metal_plate"
+		},
+
+		"C": 
+		{
+			"item": "humlands:carbon_tube"
+		},
+		
+		"W": 
+		{
+			"item": "humlands:copper_wire"
+		},
+	},
+
+	"result": 
+	{
+		"item": "humlands:tool_body",
+		"count": 1
+	}
+}

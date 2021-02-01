@@ -1,0 +1,86 @@
+{
+//Items
+
+"itemGroup.humlands_tab": "Humlands Tab",
+"item.humlands.flux_crystal": "Flux Crystal",
+"item.humlands.corrupted_crystal": "Corrupted Crystal",
+"item.humlands.copper": "Copper",
+"item.humlands.copper_wire": "Copper Wire",
+"item.humlands.carbon_tube": "Carbon Tube",
+"item.humlands.carbon_sheet": "Carbon Sheet",
+"item.humlands.iron_mesh": "Iron Mesh",
+"item.humlands.iron_plate": "Iron Plate",
+"item.humlands.mechanical_arm": "Mechanical Arm",
+"item.humlands.powered_sifter_body": "Powered Sifter Body",
+"item.humlands.unpowered_sifter_body": "Unpowered Sifter Body",
+"item.humlands.filter": "Filter",
+"item.humlands.rubber": "Rubber",
+"item.humlands.battery": "Battery",
+"item.humlands.uncharged_battery": "Uncharged Battery",
+"item.humlands.steel_chunk": "Steel Chunk",
+"item.humlands.steel_plate": "Steel Plate",
+"item.humlands.diamond_dust": "Diamond Dust",
+"item.humlands.drill_tip": "Drill Tip",
+"item.humlands.tool_body": "Tool Body",
+"item.humlands.blade": "Blade",
+"item.humlands.pure_flux_crystal": "Pure Flux Crystal",
+
+//Tools
+
+"item.humlands.drill": "Drill",
+"item.humlands.uncharged_drill": "Uncharged Drill",
+"item.humlands.empty_drill": "Empty Drill",
+"item.humlands.rubber_extractor": "Rubber Extractor",
+"item.humlands.uncharged_rubber_extractor": "Uncharged Rubber Extractor",
+"item.humlands.empty_rubber_extractor": "Empty Rubber Extractor",
+
+//Food
+
+"item.humlands.insect_bar": "Barra di Insetti",
+
+//Blocks
+
+"block.humlands.rubber_wood_log": "Rubber Wood Log",
+"block.humlands.stripped_rubber_wood_log": "Stripped Rubber Wood Log",
+"block.humlands.rubber_streaming_rubber_wood_log": "Rubber Streaming Rubber Wood Log",
+"block.humlands.rubber_wood_planks": "Rubber Wood Planks",
+"block.humlands.rubber_leaves": "Rubber Leaves",
+"block.humlands.rubber_wood_stairs": "Rubber Wood Stairs",
+"block.humlands.rubber_wood_button": "Rubber Wood Button",
+"block.humlands.rubber_wood_slab": "Rubber Wood Slab",
+"block.humlands.rubber_wood_fence_gate": "Rubber Wood Fence Gate",
+"block.humlands.rubber_wood_fence": "Rubber Wood Fence",
+"block.humlands.rubber_wood_pressure_plate": "Rubber Wood Pressure Plate",
+"block.humlands.rubber_wood_trapdoor": "Rubber Wood Trapdoor",
+"block.humlands.rubber_wood_door": "Rubber Wood Door",
+"block.humlands.copper_ore": "Copper Ore",
+"block.humlands.rubber_wood_forest_grass": "Rubber Wood Forest Grass",
+"block.humlands.rubber_wood_forest_dirt": "Rubber Wood Forest Dirt",
+"block.humlands.iron_ore_clump": "Iron Ore Clump",
+"block.humlands.coal_ore_clump": "Coal Ore Clump",
+"block.humlands.gold_ore_clump": "Gold Ore Clump",
+"block.humlands.lapis_ore_clump": "Lapis Ore Clump",
+"block.humlands.redstone_ore_clump": "Redstone Ore Clump",
+"block.humlands.flux_crystal_block_three": "Flux Crystal",
+"block.humlands.flux_crystal_block_two": "Damaged Flux Crystal",
+"block.humlands.flux_crystal_block_one": "Very Damaged Flux Crystal",
+
+//Machines
+
+"block.humlands.sifter": "Sifter",
+"block.humlands.sculptor": "Sculptor",
+
+//Tooltips
+
+"tooltip.flux_crystal": "\u00A7bHighly Electricity-conductive Crystal",
+
+//Messages
+"message.uncharged_tool": "The tool is uncharged!",
+
+//Entities
+"entity.humlands.humadillo": "Humadillo",
+"entity.humlands.centipede": "Centipede",
+
+//Containers
+"container.humlands.sculptor": "Sculptor"
+}

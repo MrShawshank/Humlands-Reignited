@@ -1,0 +1,13 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="Creative Commons"
+
+[[mods]]
+modId="humlands"
+version="1.0"
+displayName="Humlands"
+credits="Thanks to TurtyWurty for the idea and Cy4Shot for helping." 
+authors="DrNickenstein for reigniting Humlands."
+description='''
+Sci-Fi adventure mod.
+'''

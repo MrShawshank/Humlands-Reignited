@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wooden_button",
+  "ingredients": [
+    {
+      "item": "humlands:rubber_wood_planks"
+    }
+  ],
+  "result": {
+    "item": "humlands:rubber_wood_button"
+  }
+}

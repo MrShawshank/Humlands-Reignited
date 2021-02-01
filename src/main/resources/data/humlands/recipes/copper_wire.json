@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": 
+	[
+		{
+			"item": "humlands:copper"
+		},
+
+		{
+			"item": "humlands:copper"
+		}
+	],
+
+	"result": 
+	{
+		"item": "humlands:copper_wire",
+		"count": 2
+	}
+}

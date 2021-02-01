@@ -1,0 +1,87 @@
+{
+//Items
+
+"item.humlands.flux_crystal": "Cristallo di Flux",
+"item.humlands.corrupted_crystal": "Cristallo Corrotto",
+"item.humlands.copper": "Rame",
+"item.humlands.copper_wire": "Filo di Rame",
+"item.humlands.carbon_tube": "Tubo di Carbonio",
+"item.humlands.carbon_sheet": "Lastra di Carbonio",
+"item.humlands.iron_mesh": "Maglia di Ferro",
+"item.humlands.iron_plate": "Lastra di Ferro",
+"item.humlands.mechanical_arm": "Braccio Meccanico",
+"item.humlands.powered_sifter_body": "Tronco di Filtro Alimentato",
+"item.humlands.unpowered_sifter_body": "Tronco di Setaccio non Aimentato",
+"item.humlands.filter": "Filtro",
+"item.humlands.rubber": "Gomma",
+"item.humlands.battery": "Batteria",
+"item.humlands.uncharged_battery": "Batteria Scarica",
+"item.humlands.steel_chunk": "Pezzo d'Acciaio",
+"item.humlands.steel_plate": "Lastra d'Acciaio",
+"item.humlands.diamond_dust": "Polvere di Diamante",
+"item.humlands.drill_tip": "Punta di Trivella",
+"item.humlands.tool_base": "Base per Attrezzo",
+"item.humlands.blade": "Lama",
+"item.humlands.pure_flux_crystal": "Cristallo di Flux Puro",
+
+//ItemGroups
+
+"itemGroup.humlands_tab": "Pagina delle Humlands",
+
+//Tools
+
+"item.humlands.drill": "Trivella",
+"item.humlands.uncharged_drill": "Trivella Scarica",
+"item.humlands.empty_drill": "Trivella Vuota",
+"item.humlands.rubber_extractor": "Estrattore di Gomma",
+"item.humlands.uncharged_rubber_extractor": "Estrattore di Gomma Scarico",
+"item.humlands.empty_rubber_extractor": "Estrattore di Gomma Vuoto",
+
+//Food
+
+"item.humlands.insect_bar": "Barra di Insetti",
+
+//Blocks
+
+"block.humlands.rubber_wood_log": "Tronco di Gommalegno",
+"block.humlands.stripped_rubber_wood_log": "Tronco di Gommalegno Scortecciato",
+"block.humlands.rubber_streaming_rubber_wood_log": "Tronco di Gommalegno Grondante di Gomma",
+"block.humlands.rubber_wood_planks": "Assi di Gommalegno",
+"block.humlands.rubber_leaves": "Foglie di Gomma",
+"block.humlands.rubber_wood_stairs": "Scale di Gommalegno",
+"block.humlands.rubber_wood_button": "Bottone di Gommalegno",
+"block.humlands.rubber_wood_slab": "Lastra di Gommalegno",
+"block.humlands.rubber_wood_fence_gate": "Cancello di Gommalegno",
+"block.humlands.rubber_wood_fence": "Staccionata di Gommalegno",
+"block.humlands.rubber_wood_pressure_plate": "Piastra a pressione di Gommalegno",
+"block.humlands.rubber_wood_trapdoor": "Botola di Gommalegno",
+"block.humlands.copper_ore": "Minerale di Rame",
+"block.humlands.rubber_wood_forest_grass": "Erba di Foresta di Gommalegno",
+"block.humlands.rubber_wood_forest_dirt": "Terra di Foresta di Gommalegno",
+"block.humlands.iron_ore_clump": "Affioramento di Ferro",
+"block.humlands.coal_ore_clump": "Affioramento di Carbone",
+"block.humlands.gold_ore_clump": "Affioramento di Oro",
+"block.humlands.lapis_ore_clump": "Affioramento di Lapislazzuli",
+"block.humlands.redstone_ore_clump": "Affioramento di Pietra Rossa",
+"block.humlands.flux_crystal_block_three": "Cristallo di Flux",
+"block.humlands.flux_crystal_block_two": "Cristallo di Flux Danneggiato",
+"block.humlands.flux_crystal_block_one": "Cristallo di Flux Molto Danneggiato",
+
+//Machines
+
+"block.humlands.sifter": "Vaglio",
+
+//Tooltips
+
+"tooltip.flux_crystal": "Cristallo ad Alta Conduttività Elettrica",
+
+//Messages
+"message.uncharged_tool": "L'attrezzo è scarico!",
+
+//Entities
+"entity.humlands.humadillo": "Humadillo",
+"entity.humlands.centipede": "Scolopendra",
+
+//Containers
+"container.humlands.sculptor": "Scalfitore"
+}

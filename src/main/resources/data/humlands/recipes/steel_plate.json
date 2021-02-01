@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": 
+	[
+		"CC",
+		"MM"
+	],
+
+	"key": 
+	{
+		"C": 
+		{
+			"item": "humlands:carbon_sheet"
+		},
+
+		"M": 
+		{
+			"item": "humlands:metal_sheet"
+		}
+	},
+
+	"result": 
+	{
+		"item": "humlands:steel_sheet",
+		"count": 2
+	}
+}

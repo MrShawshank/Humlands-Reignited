@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "humlands:block/flux_crystal_block_one" },
+        "facing=south": { "model": "humlands:block/flux_crystal_block_one", "y": 180 },
+        "facing=west":  { "model": "humlands:block/flux_crystal_block_one", "y": 270 },
+        "facing=east":  { "model": "humlands:block/flux_crystal_block_one", "y": 90 }
+    }
+}

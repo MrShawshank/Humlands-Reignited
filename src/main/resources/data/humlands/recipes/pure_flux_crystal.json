@@ -1,0 +1,10 @@
+{
+	"type": "humlands:sculptor",
+	"output": {
+		"item": "humlands:pure_flux_crystal"
+	},
+	
+	"input": {
+		"item": "humlands:flux_crystal"
+	}
+}

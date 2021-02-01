@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": 
+	[
+		"CI",
+		"IC"
+	],
+
+	"key": 
+	{
+		"C": 
+		{
+			"item": "humlands:carbon_sheet"
+		},
+
+		"I": 
+		{
+			"item": "minecraft:iron"
+		}
+	},
+
+	"result": 
+	{
+		"item": "humlands:steel_chunk",
+		"count": 2
+	}
+}

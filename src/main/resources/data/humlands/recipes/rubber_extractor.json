@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": 
+	[
+		{
+			"item": "humlands:blade"
+		},
+
+		{
+			"item": "humlands:tool_body"
+		},
+		
+		{
+		"item": "humlands:carbon_tube"
+		}
+	],
+
+	"result": 
+	{
+		"item": "humlands:rubber_extractor",
+		"count": 1
+	}
+}

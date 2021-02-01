@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": 
+	[
+		{
+			"item": "humlands:steel_plate"
+		},
+
+		{
+			"item": "humlands:steel_plate"
+		}
+	],
+
+	"result": 
+	{
+		"item": "humlands:blade",
+		"count": 2
+	}
+}

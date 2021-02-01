@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/fence_inventory",
+  "textures": {
+    "texture": "humlands:blocks/rubber_wood_planks"
+  }
+}

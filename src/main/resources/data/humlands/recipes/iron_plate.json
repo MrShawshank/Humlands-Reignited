@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": 
+	[
+		{
+			"item": "minecraft:iron"
+		},
+		
+		{
+			"item": "minecraft:iron"
+		},
+		
+		{
+			"item": "minecraft:iron"
+		},
+
+		{
+			"item": "minecraft:iron"
+		}
+	],
+
+	"result": 
+	{
+		"item": "humlands:metal_sheet",
+		"count": 2
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": 
+	[
+		"CI",
+		"IC"
+	],
+
+	"key": 
+	{
+		"S": 
+		{
+			"item": "humlands:steel_chunk"
+		},
+
+		"D": 
+		{
+			"item": "humlands:diamond_dust"
+		}
+	},
+
+	"result": 
+	{
+		"item": "humlands:drill_tip",
+		"count": 2
+	}
+}
